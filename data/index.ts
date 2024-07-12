@@ -76,15 +76,15 @@ export const projects = [
     des: "A modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.",
     img: "/project-1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/app.svg"],
-    link: "/ui.earth.com",
+    link: "https://snap-gram-eta.vercel.app/",
   },
   {
     id: 2,
     title: "StreamSpectra - Movies and TV Shows",
     des: "A web application that allows users to explore and discover information about movies and TV shows. The application provides features such as searching, sorting, and detailed information about movies and TV shows.",
     img: "/project-2.png",
-    iconLists: ["/re.svg", "/tail.svg", "/js.svg","git.svg"],
-    link: "/ui.yoom.com",
+    iconLists: ["/re.svg", "/tail.svg", "/js.svg", "git.svg"],
+    link: "https://tejas-mahajan-imdb.netlify.app/",
   },
   {
     id: 3,
