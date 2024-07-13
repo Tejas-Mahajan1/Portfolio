@@ -27,7 +27,7 @@ const RecentProjects = () => {
                   <Image
                     src={item.img}
                     alt="cover"
-                    className="z-10 absolute bottom-1"
+                    className="z-10 absolute bottom-0"
                     layout="fill"
                     objectFit="cover"
                   />
@@ -36,7 +36,7 @@ const RecentProjects = () => {
                   src="/bg.png"
                   alt="bgimg"
                   layout="fill"
-                  objectFit="cover"
+                  objectFit={item.title}
                 />
               </div>
 
