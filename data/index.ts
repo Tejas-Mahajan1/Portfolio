@@ -72,6 +72,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "A FullStack Upgraded Threads",
+    des: "Build a full stack Threads clone using Next.js 14+ with a redesigned look transformed from a Figma design, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.",
+    img: "/project-4.png",
+    iconLists: ["next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/clerk.jpg"],
+    link: "https://snap-gram-eta.vercel.app/",
+  },
+  {
+    id: 2,
     title: "A Social Media Application",
     des: "A modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.",
     img: "/project-1.png",
@@ -79,7 +87,7 @@ export const projects = [
     link: "https://snap-gram-eta.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "StreamSpectra - Movies and TV Shows",
     des: "A web application that allows users to explore and discover information about movies and TV shows. The application provides features such as searching, sorting, and detailed information about movies and TV shows.",
     img: "/project-2.png",
@@ -87,7 +95,7 @@ export const projects = [
     link: "https://tejas-mahajan-imdb.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
