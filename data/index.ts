@@ -76,7 +76,7 @@ export const projects = [
     des: "Build a full stack Threads clone using Next.js 14+ with a redesigned look transformed from a Figma design, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.",
     img: "/project-4.png",
     iconLists: ["next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/clerk.jpg"],
-    link: "https://snap-gram-eta.vercel.app/",
+    link: "threads-next-js-xi.vercel.app",
   },
   {
     id: 2,
