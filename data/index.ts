@@ -182,7 +182,7 @@ export const workExperience = [
   {
     id: 1,
     title: "Full Stack Web Developer - Think201",
-    desc: "Developed and deployed high-performance backend systems for a World Bank-collaborated project, engineering the entire backend architecture using Express.js, PostgreSQL, and AWS S3, ensuring scalability, security, and seamless integra-tion.",
+    desc: "Developed and deployed high-performance backend systems for a World Bank-collaborated project, engineering the entire backend architecture using Express.js, PostgreSQL, and AWS S3, ensuring scalability, security, and seamless integration.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp4.svg",
   },
