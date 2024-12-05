@@ -182,14 +182,14 @@ export const workExperience = [
   {
     id: 1,
     title: "Full Stack Web Developer - Think201",
-    desc: "Enhanced a React-based software suite, optimizing product APIs for a 20% performance boost, improving user interaction, and implementing PostgreSQL for product tracking, thereby streamlining update processes and enhancing overall operational efficiency.",
+    desc: "Developed and deployed high-performance backend systems for a World Bank-collaborated project, engineering the entire backend architecture using Express.js, PostgreSQL, and AWS S3, ensuring scalability, security, and seamless integra-tion.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp4.svg",
   },
   {
     id: 2,
     title: "Full Stack Web Developer - Depo24",
-    desc: "Developed and deployed high-performance backend systems for a World Bank-collaborated project, engineering the entire backend architecture using Express.js, PostgreSQL, and AWS S3, ensuring scalability, security, and seamless integra-tion.",
+    desc: "Enhanced a React-based software suite, optimizing product APIs for a 20% performance boost, improving user interaction, and implementing PostgreSQL for product tracking, thereby streamlining update processes and enhancing overall operational efficiency.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp1.svg",
   },
